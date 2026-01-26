@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <title>Projeto Canadá – Planejamento de 2 Anos</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header>
+    <h1>Projeto Canadá 🇨🇦</h1>
+    <p>Planejamento financeiro e profissional para 2 anos</p>
+  </header>
+
+  <main>
+    <section class="card">
+      <h2>✈️ Custos Iniciais</h2>
+      <ul>
+        <li>Passaportes</li>
+        <li>Vistos</li>
+        <li>Passagens</li>
+        <li>Seguro saúde</li>
+      </ul>
+    </section>
+
+    <section class="card">
+      <h2>🎓 Estudos em Ciência da Computação</h2>
+      <p>Especialização / College com Co-op</p>
+    </section>
+
+    <section class="card">
+      <h2>💼 Trabalho</h2>
+      <p>Planejamento de trabalho para o casal</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>Projeto pessoal – 2025</p>
+  </footer>
+
+</body>
+</html>
